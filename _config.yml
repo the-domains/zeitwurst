@@ -1,0 +1,28 @@
+name: zeitwurst
+favicon: null
+layout_spectrum: 0.026783070992678404
+typography_spectrum: 0.8116319803521037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1770409820601344
+  lightness: 0.3042203220538795
+  saturation: 0.8043639895040542
+  rhythmicContrast: 0.6280327343847603
+purpose: []
