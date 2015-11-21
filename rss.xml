@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[zeitwurst]]></title>
+        <description><![CDATA[zeitwurst]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 Nov 2015 17:31:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hooked to the grid]]></title>
+            <description><![CDATA[<article><h1>Hooked to the grid</h1><p>This is a grid site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin, lorem ut finibus lobortis, arcu risus eleifend ligula, a feugiat orci sapien vitae nibh. Aliquam eu sem facilisis, lacinia ante eget, ultricies quam. Quisque vehicula nisi justo, quis eleifend nunc luctus ut. Curabitur malesuada magna ac nisl cursus faucibus. Suspendisse dignissim ut quam non facilisis. Curabitur dignissim, felis eu porta feugiat, libero diam mollis lacus, eget consequat diam erat a metus. Quisque pharetra ligula arcu, eu malesuada sapien fringilla sed. Pellentesque nec rutrum dolor. Donec est elit, efficitur sit amet aliquet vitae, tempus vitae justo. Ut dignissim erat tellus, ut cursus neque finibus posuere. Nulla laoreet, turpis sodales consectetur congue, ex massa tempor neque, eu accumsan elit nulla maximus felis. Vestibulum et ornare tellus. Cras iaculis mauris non lorem rhoncus, at suscipit leo faucibus. In ultricies orci sed metus volutpat, id molestie metus porttitor.</p></article>]]></description>
+            <link>undefinedhooked-to-the-grid/index.html</link>
+            <guid isPermaLink="false">8a7f0142-4cb8-4ff9-a97d-73a4fc962b26</guid>
+            <pubDate>Sat, 21 Nov 2015 17:31:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
