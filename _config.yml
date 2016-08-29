@@ -1,20 +1,4 @@
-name: zeitwurst
-favicon: null
-layout_spectrum: 0.50879
 typography_spectrum: 0.8116319803521037
-title: Word sausages composed of timely digits
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -26,4 +10,20 @@ color:
   lightness: 0.3042203220538795
   saturation: 0.8043639895040542
   rhythmicContrast: 0.6280327343847603
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50879
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: zeitwurst
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: This is Zeitwurst
 purpose: []
